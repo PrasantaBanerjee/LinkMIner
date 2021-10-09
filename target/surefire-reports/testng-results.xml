@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Link Miner" duration-ms="101949" started-at="2021-10-09T17:54:58Z" finished-at="2021-10-09T17:56:40Z">
+    <groups>
+    </groups>
+    <test name="Link Miner Test" duration-ms="101949" started-at="2021-10-09T17:54:58Z" finished-at="2021-10-09T17:56:40Z">
+      <class name="com.qa.tests.TestCrawler">
+        <test-method status="PASS" signature="execution()[pri:0, instance:com.qa.tests.TestCrawler@b97c004]" name="execution" duration-ms="101935" started-at="2021-10-09T17:54:58Z" finished-at="2021-10-09T17:56:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- execution -->
+      </class> <!-- com.qa.tests.TestCrawler -->
+    </test> <!-- Link Miner Test -->
+  </suite> <!-- Link Miner -->
+</testng-results>

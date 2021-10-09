@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Link Miner">
+	<test name="Link Miner Test">
+		<!-- Test Class -->
+		<packages>
+			<package name="com.qa.tests.*" />
+			<package name="com.qa.crawler.*" />
+			<package name="com.qa.utils.*" />
+		</packages>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
