@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Link Miner" duration-ms="101949" started-at="2021-10-09T17:54:58Z" finished-at="2021-10-09T17:56:40Z">
+  <suite name="Link Miner" duration-ms="86553" started-at="2021-10-09T18:16:12Z" finished-at="2021-10-09T18:17:39Z">
     <groups>
     </groups>
-    <test name="Link Miner Test" duration-ms="101949" started-at="2021-10-09T17:54:58Z" finished-at="2021-10-09T17:56:40Z">
+    <test name="Link Miner Test" duration-ms="86553" started-at="2021-10-09T18:16:12Z" finished-at="2021-10-09T18:17:39Z">
       <class name="com.qa.tests.TestCrawler">
-        <test-method status="PASS" signature="execution()[pri:0, instance:com.qa.tests.TestCrawler@b97c004]" name="execution" duration-ms="101935" started-at="2021-10-09T17:54:58Z" finished-at="2021-10-09T17:56:40Z">
+        <test-method status="PASS" signature="execution()[pri:0, instance:com.qa.tests.TestCrawler@5cc7c2a6]" name="execution" duration-ms="86537" started-at="2021-10-09T18:16:12Z" finished-at="2021-10-09T18:17:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- execution -->
